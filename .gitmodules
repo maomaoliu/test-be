@@ -1,3 +1,4 @@
 [submodule "frontend"]
 	path = frontend
 	url = git@github.com:maomaoliu/test-fe.git
+	branch = branch-one
